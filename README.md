@@ -1,6 +1,6 @@
 # This is Philisiah Mwaluma's Webpage
 
-![alt phil](https://github.com/Philisiah/Philisiah.github.io/phil.jpg)
+![alt phil](https://github.com/Philisiah.github.io/phil.jpg)
 
 It shows:
         1. [Her Origin](https://philisiah.github.io/index.html)
@@ -13,4 +13,4 @@ Some of her interests are captured below:
 | Astrophysics| Wants to figure out the universe|
 |Quantun Physics| String Theory!!!!!!|
 
-![Enjoy](https://github.com/Philisiah/Philisiah.github.io/emoji.jpg)
+![Enjoy](https://github.com/Philisiah.github.io/emoji.jpg)
